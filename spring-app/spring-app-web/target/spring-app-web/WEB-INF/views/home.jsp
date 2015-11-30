@@ -11,7 +11,7 @@
 	href="<%=request.getContextPath()%>/resources/css/style1.css" />
 </head>
 <body>
-
+<h1>Hello world</h1>
 	<div>
 		<s:form modelAttribute="product" action="save" method="post">
 			<table>
